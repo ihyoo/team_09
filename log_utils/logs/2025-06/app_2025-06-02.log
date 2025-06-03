@@ -1,0 +1,410 @@
+2025-06-02 15:27:42 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:27:42 [INFO] embeddings: candidate - 김문수
+2025-06-02 15:27:42 [INFO] embeddings: party - 국민의힘
+2025-06-02 15:27:42 [INFO] embeddings: 🔹 저장 시도: 김문수_1
+2025-06-02 15:27:51 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:27:51 [INFO] embeddings: 🔹 저장 시도: 김문수_2
+2025-06-02 15:27:54 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:27:54 [INFO] embeddings: 🔹 저장 시도: 김문수_3
+2025-06-02 15:27:57 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:27:57 [INFO] embeddings: 🔹 저장 시도: 김문수_4
+2025-06-02 15:28:02 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:02 [INFO] embeddings: 🔹 저장 시도: 김문수_5
+2025-06-02 15:28:05 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:05 [INFO] embeddings: 🔹 저장 시도: 김문수_6
+2025-06-02 15:28:08 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:08 [INFO] embeddings: 🔹 저장 시도: 김문수_7
+2025-06-02 15:28:11 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '청년', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:11 [INFO] embeddings: 🔹 저장 시도: 김문수_8
+2025-06-02 15:28:15 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '청년', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:15 [INFO] embeddings: 🔹 저장 시도: 김문수_9
+2025-06-02 15:28:18 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:18 [INFO] embeddings: 🔹 저장 시도: 김문수_10
+2025-06-02 15:28:22 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:22 [INFO] embeddings: 🔹 저장 시도: 김문수_11
+2025-06-02 15:28:24 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:24 [INFO] embeddings: 🔹 저장 시도: 김문수_12
+2025-06-02 15:28:28 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:28 [INFO] embeddings: 🔹 저장 시도: 김문수_13
+2025-06-02 15:28:33 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:33 [INFO] embeddings: 🔹 저장 시도: 김문수_14
+2025-06-02 15:28:37 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:37 [INFO] embeddings: 🔹 저장 시도: 김문수_15
+2025-06-02 15:28:41 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:41 [INFO] embeddings: 🔹 저장 시도: 김문수_16
+2025-06-02 15:28:43 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:43 [INFO] embeddings: 🔹 저장 시도: 김문수_17
+2025-06-02 15:28:45 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:45 [INFO] embeddings: 🔹 저장 시도: 김문수_18
+2025-06-02 15:28:49 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:49 [INFO] embeddings: 🔹 저장 시도: 김문수_19
+2025-06-02 15:28:52 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:52 [INFO] embeddings: 🔹 저장 시도: 김문수_20
+2025-06-02 15:28:55 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:28:55 [INFO] embeddings: 🔹 저장 시도: 김문수_21
+2025-06-02 15:29:00 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '서울, 부산, 대구, 인천'}
+2025-06-02 15:29:00 [INFO] embeddings: 🔹 저장 시도: 김문수_22
+2025-06-02 15:29:13 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '모두', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:13 [INFO] embeddings: 🔹 저장 시도: 김문수_23
+2025-06-02 15:29:17 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '강원, 충북, 충남, 전북'}
+2025-06-02 15:29:17 [INFO] embeddings: 🔹 저장 시도: 김문수_24
+2025-06-02 15:29:22 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:22 [INFO] embeddings: 🔹 저장 시도: 김문수_25
+2025-06-02 15:29:24 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '모두', 'target_age': '모두', 'target_gender': '모두', 'region': '서울'}
+2025-06-02 15:29:24 [INFO] embeddings: 🔹 저장 시도: 김문수_26
+2025-06-02 15:29:28 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:28 [INFO] embeddings: 🔹 저장 시도: 김문수_27
+2025-06-02 15:29:31 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:31 [INFO] embeddings: 🔹 저장 시도: 김문수_28
+2025-06-02 15:29:35 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:35 [INFO] embeddings: 🔹 저장 시도: 김문수_29
+2025-06-02 15:29:40 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:40 [INFO] embeddings: 🔹 저장 시도: 김문수_30
+2025-06-02 15:29:45 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '복지', 'target_age': '신혼부부, 육아부부, 청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:45 [INFO] embeddings: 🔹 저장 시도: 김문수_31
+2025-06-02 15:29:48 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '교통', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:48 [INFO] embeddings: 🔹 저장 시도: 김문수_33
+2025-06-02 15:29:56 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:56 [INFO] embeddings: 🔹 저장 시도: 김문수_34
+2025-06-02 15:29:59 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:29:59 [INFO] embeddings: 🔹 저장 시도: 김문수_35
+2025-06-02 15:30:08 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:08 [INFO] embeddings: 🔹 저장 시도: 김문수_36
+2025-06-02 15:30:11 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:11 [INFO] embeddings: 🔹 저장 시도: 김문수_37
+2025-06-02 15:30:21 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:21 [INFO] embeddings: 🔹 저장 시도: 김문수_38
+2025-06-02 15:30:27 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:27 [INFO] embeddings: 🔹 저장 시도: 김문수_39
+2025-06-02 15:30:35 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:35 [INFO] embeddings: 🔹 저장 시도: 김문수_40
+2025-06-02 15:30:41 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:41 [INFO] embeddings: 🔹 저장 시도: 김문수_41
+2025-06-02 15:30:47 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:47 [INFO] embeddings: 🔹 저장 시도: 김문수_42
+2025-06-02 15:30:53 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:53 [INFO] embeddings: 🔹 저장 시도: 김문수_43
+2025-06-02 15:30:58 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:30:58 [INFO] embeddings: 🔹 저장 시도: 김문수_44
+2025-06-02 15:31:05 [INFO] embeddings: → 저장 메타: {'candidate': '김문수', 'party': '국민의힘', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:05 [INFO] embeddings: file_type - 정당정책
+2025-06-02 15:31:05 [INFO] embeddings: 🔹 저장 시도: 개혁신당_0
+2025-06-02 15:31:14 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:14 [INFO] embeddings: 🔹 저장 시도: 개혁신당_1
+2025-06-02 15:31:18 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:18 [INFO] embeddings: 🔹 저장 시도: 개혁신당_2
+2025-06-02 15:31:25 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '산업', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:25 [INFO] embeddings: 🔹 저장 시도: 개혁신당_3
+2025-06-02 15:31:32 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:33 [INFO] embeddings: 🔹 저장 시도: 개혁신당_4
+2025-06-02 15:31:39 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:39 [INFO] embeddings: 🔹 저장 시도: 개혁신당_5
+2025-06-02 15:31:46 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '사회복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:46 [INFO] embeddings: 🔹 저장 시도: 개혁신당_6
+2025-06-02 15:31:53 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:31:53 [INFO] embeddings: 🔹 저장 시도: 개혁신당_7
+2025-06-02 15:32:01 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '경제', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:01 [INFO] embeddings: 🔹 저장 시도: 개혁신당_8
+2025-06-02 15:32:08 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '국방', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:08 [INFO] embeddings: 🔹 저장 시도: 개혁신당_9
+2025-06-02 15:32:16 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '산업', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:16 [INFO] embeddings: 🔹 저장 시도: 개혁신당_10
+2025-06-02 15:32:25 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '개혁신당', 'policy_type': 'party', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:25 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:32:25 [INFO] embeddings: candidate - 송진호
+2025-06-02 15:32:25 [INFO] embeddings: party - 무소속
+2025-06-02 15:32:25 [INFO] embeddings: 🔹 저장 시도: 송진호_0
+2025-06-02 15:32:32 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:32 [INFO] embeddings: 🔹 저장 시도: 송진호_1
+2025-06-02 15:32:38 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:38 [INFO] embeddings: 🔹 저장 시도: 송진호_2
+2025-06-02 15:32:43 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '청년', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:43 [INFO] embeddings: 🔹 저장 시도: 송진호_3
+2025-06-02 15:32:48 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:48 [INFO] embeddings: 🔹 저장 시도: 송진호_4
+2025-06-02 15:32:54 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '문화예술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:54 [INFO] embeddings: 🔹 저장 시도: 송진호_5
+2025-06-02 15:32:58 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:32:58 [INFO] embeddings: 🔹 저장 시도: 송진호_6
+2025-06-02 15:33:03 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:04 [INFO] embeddings: 🔹 저장 시도: 송진호_7
+2025-06-02 15:33:08 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:08 [INFO] embeddings: 🔹 저장 시도: 송진호_8
+2025-06-02 15:33:13 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:13 [INFO] embeddings: 🔹 저장 시도: 송진호_9
+2025-06-02 15:33:19 [INFO] embeddings: → 저장 메타: {'candidate': '송진호', 'party': '무소속', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:19 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:33:19 [INFO] embeddings: candidate - 권영국
+2025-06-02 15:33:19 [INFO] embeddings: party - 민주노동당
+2025-06-02 15:33:19 [INFO] embeddings: 🔹 저장 시도: 권영국_0
+2025-06-02 15:33:25 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '재정', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:25 [INFO] embeddings: 🔹 저장 시도: 권영국_1
+2025-06-02 15:33:31 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:31 [INFO] embeddings: 🔹 저장 시도: 권영국_2
+2025-06-02 15:33:39 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '노동', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:39 [INFO] embeddings: 🔹 저장 시도: 권영국_3
+2025-06-02 15:33:46 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '노동', 'target_age': '청년,모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:46 [INFO] embeddings: 🔹 저장 시도: 권영국_4
+2025-06-02 15:33:54 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:33:54 [INFO] embeddings: 🔹 저장 시도: 권영국_5
+2025-06-02 15:34:00 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:00 [INFO] embeddings: 🔹 저장 시도: 권영국_6
+2025-06-02 15:34:07 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '여성', 'region': '전국'}
+2025-06-02 15:34:07 [INFO] embeddings: 🔹 저장 시도: 권영국_7
+2025-06-02 15:34:14 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:14 [INFO] embeddings: 🔹 저장 시도: 권영국_8
+2025-06-02 15:34:21 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:21 [INFO] embeddings: 🔹 저장 시도: 권영국_9
+2025-06-02 15:34:31 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:31 [INFO] embeddings: 🔹 저장 시도: 권영국_10
+2025-06-02 15:34:39 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '주거', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:40 [INFO] embeddings: 🔹 저장 시도: 권영국_11
+2025-06-02 15:34:45 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '주거', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:45 [INFO] embeddings: 🔹 저장 시도: 권영국_12
+2025-06-02 15:34:51 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:51 [INFO] embeddings: 🔹 저장 시도: 권영국_13
+2025-06-02 15:34:59 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '보건', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:34:59 [INFO] embeddings: 🔹 저장 시도: 권영국_14
+2025-06-02 15:35:07 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '복지', 'target_age': '노년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:07 [INFO] embeddings: 🔹 저장 시도: 권영국_15
+2025-06-02 15:35:14 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:14 [INFO] embeddings: 🔹 저장 시도: 권영국_16
+2025-06-02 15:35:22 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:22 [INFO] embeddings: 🔹 저장 시도: 권영국_17
+2025-06-02 15:35:32 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:32 [INFO] embeddings: 🔹 저장 시도: 권영국_18
+2025-06-02 15:35:35 [INFO] embeddings: → 저장 메타: {'candidate': '권영국', 'party': '민주노동당', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:35 [INFO] embeddings: file_type - 정당정책
+2025-06-02 15:35:35 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_0
+2025-06-02 15:35:44 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:44 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_1
+2025-06-02 15:35:52 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:52 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_2
+2025-06-02 15:35:55 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:35:55 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_3
+2025-06-02 15:36:04 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:04 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_4
+2025-06-02 15:36:10 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:10 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_5
+2025-06-02 15:36:19 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:19 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_6
+2025-06-02 15:36:25 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:25 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_7
+2025-06-02 15:36:33 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:33 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_8
+2025-06-02 15:36:40 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '사법', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:40 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_9
+2025-06-02 15:36:49 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '의료', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:49 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_10
+2025-06-02 15:36:58 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:36:58 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_11
+2025-06-02 15:37:08 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:08 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_12
+2025-06-02 15:37:12 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '노동', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:12 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_13
+2025-06-02 15:37:18 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:18 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_14
+2025-06-02 15:37:22 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:22 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_15
+2025-06-02 15:37:34 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '복지', 'target_age': '청년, 모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:34 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_16
+2025-06-02 15:37:39 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:39 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_17
+2025-06-02 15:37:46 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '정책', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:46 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_18
+2025-06-02 15:37:50 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:50 [INFO] embeddings: 🔹 저장 시도: 더불어민주당_19
+2025-06-02 15:37:58 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '더불어민주당', 'policy_type': 'party', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:37:58 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:37:58 [INFO] embeddings: candidate - 이준석
+2025-06-02 15:37:58 [INFO] embeddings: party - 개혁신당
+2025-06-02 15:37:58 [INFO] embeddings: 🔹 저장 시도: 이준석_0
+2025-06-02 15:38:06 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:06 [INFO] embeddings: 🔹 저장 시도: 이준석_1
+2025-06-02 15:38:14 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:14 [INFO] embeddings: 🔹 저장 시도: 이준석_2
+2025-06-02 15:38:24 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:24 [INFO] embeddings: 🔹 저장 시도: 이준석_3
+2025-06-02 15:38:27 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:27 [INFO] embeddings: 🔹 저장 시도: 이준석_4
+2025-06-02 15:38:33 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '산업', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:33 [INFO] embeddings: 🔹 저장 시도: 이준석_5
+2025-06-02 15:38:40 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:40 [INFO] embeddings: 🔹 저장 시도: 이준석_6
+2025-06-02 15:38:48 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:48 [INFO] embeddings: 🔹 저장 시도: 이준석_7
+2025-06-02 15:38:54 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '사회복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:38:54 [INFO] embeddings: 🔹 저장 시도: 이준석_8
+2025-06-02 15:39:01 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:01 [INFO] embeddings: 🔹 저장 시도: 이준석_9
+2025-06-02 15:39:09 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:09 [INFO] embeddings: 🔹 저장 시도: 이준석_10
+2025-06-02 15:39:17 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '국방', 'target_age': '청년', 'target_gender': '남성', 'region': '전국'}
+2025-06-02 15:39:17 [INFO] embeddings: 🔹 저장 시도: 이준석_11
+2025-06-02 15:39:25 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '산업', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:25 [INFO] embeddings: 🔹 저장 시도: 이준석_12
+2025-06-02 15:39:33 [INFO] embeddings: → 저장 메타: {'candidate': '이준석', 'party': '개혁신당', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:33 [INFO] embeddings: file_type - 정당정책
+2025-06-02 15:39:33 [INFO] embeddings: 🔹 저장 시도: 국민의힘_0
+2025-06-02 15:39:43 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:43 [INFO] embeddings: 🔹 저장 시도: 국민의힘_1
+2025-06-02 15:39:48 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:48 [INFO] embeddings: 🔹 저장 시도: 국민의힘_2
+2025-06-02 15:39:56 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:39:56 [INFO] embeddings: 🔹 저장 시도: 국민의힘_3
+2025-06-02 15:40:03 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '재정', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:03 [INFO] embeddings: 🔹 저장 시도: 국민의힘_4
+2025-06-02 15:40:10 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '복지', 'target_age': '청년, 모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:10 [INFO] embeddings: 🔹 저장 시도: 국민의힘_5
+2025-06-02 15:40:15 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:15 [INFO] embeddings: 🔹 저장 시도: 국민의힘_7
+2025-06-02 15:40:24 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:24 [INFO] embeddings: 🔹 저장 시도: 국민의힘_8
+2025-06-02 15:40:30 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:30 [INFO] embeddings: 🔹 저장 시도: 국민의힘_9
+2025-06-02 15:40:34 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '복지', 'target_age': '청년, 모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:34 [INFO] embeddings: 🔹 저장 시도: 국민의힘_10
+2025-06-02 15:40:41 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:41 [INFO] embeddings: 🔹 저장 시도: 국민의힘_11
+2025-06-02 15:40:47 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:47 [INFO] embeddings: 🔹 저장 시도: 국민의힘_12
+2025-06-02 15:40:55 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:40:55 [INFO] embeddings: 🔹 저장 시도: 국민의힘_13
+2025-06-02 15:41:02 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:02 [INFO] embeddings: 🔹 저장 시도: 국민의힘_14
+2025-06-02 15:41:09 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:09 [INFO] embeddings: 🔹 저장 시도: 국민의힘_15
+2025-06-02 15:41:12 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:12 [INFO] embeddings: 🔹 저장 시도: 국민의힘_16
+2025-06-02 15:41:22 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:22 [INFO] embeddings: 🔹 저장 시도: 국민의힘_17
+2025-06-02 15:41:26 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:26 [INFO] embeddings: 🔹 저장 시도: 국민의힘_18
+2025-06-02 15:41:34 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '국민의힘', 'policy_type': 'party', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:34 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:41:34 [INFO] embeddings: candidate - 황교안
+2025-06-02 15:41:34 [INFO] embeddings: party - 무소속
+2025-06-02 15:41:34 [INFO] embeddings: 🔹 저장 시도: 황교안_0
+2025-06-02 15:41:39 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:39 [INFO] embeddings: 🔹 저장 시도: 황교안_1
+2025-06-02 15:41:46 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:46 [INFO] embeddings: 🔹 저장 시도: 황교안_2
+2025-06-02 15:41:52 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:52 [INFO] embeddings: 🔹 저장 시도: 황교안_3
+2025-06-02 15:41:59 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:41:59 [INFO] embeddings: 🔹 저장 시도: 황교안_4
+2025-06-02 15:42:07 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '과학기술', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:07 [INFO] embeddings: 🔹 저장 시도: 황교안_5
+2025-06-02 15:42:11 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '안보', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:11 [INFO] embeddings: 🔹 저장 시도: 황교안_6
+2025-06-02 15:42:20 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:20 [INFO] embeddings: 🔹 저장 시도: 황교안_7
+2025-06-02 15:42:25 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '복지', 'target_age': '청년, 모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:25 [INFO] embeddings: 🔹 저장 시도: 황교안_8
+2025-06-02 15:42:32 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '교육', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:32 [INFO] embeddings: 🔹 저장 시도: 황교안_9
+2025-06-02 15:42:39 [INFO] embeddings: → 저장 메타: {'candidate': '황교안', 'party': '무소속', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:39 [INFO] embeddings: file_type - 정당정책
+2025-06-02 15:42:39 [INFO] embeddings: 🔹 저장 시도: 민주노동당_0
+2025-06-02 15:42:47 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '재정', 'target_age': '청년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:47 [INFO] embeddings: 🔹 저장 시도: 민주노동당_1
+2025-06-02 15:42:54 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:42:54 [INFO] embeddings: 🔹 저장 시도: 민주노동당_2
+2025-06-02 15:43:00 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '노동', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:00 [INFO] embeddings: 🔹 저장 시도: 민주노동당_3
+2025-06-02 15:43:10 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '노동', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:10 [INFO] embeddings: 🔹 저장 시도: 민주노동당_4
+2025-06-02 15:43:17 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '재정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:17 [INFO] embeddings: 🔹 저장 시도: 민주노동당_5
+2025-06-02 15:43:24 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:24 [INFO] embeddings: 🔹 저장 시도: 민주노동당_6
+2025-06-02 15:43:30 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '교육', 'target_age': '모두', 'target_gender': '여성', 'region': '전국'}
+2025-06-02 15:43:30 [INFO] embeddings: 🔹 저장 시도: 민주노동당_7
+2025-06-02 15:43:40 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:40 [INFO] embeddings: 🔹 저장 시도: 민주노동당_8
+2025-06-02 15:43:47 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:47 [INFO] embeddings: 🔹 저장 시도: 민주노동당_9
+2025-06-02 15:43:56 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:43:56 [INFO] embeddings: 🔹 저장 시도: 민주노동당_10
+2025-06-02 15:44:03 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '주거', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:03 [INFO] embeddings: 🔹 저장 시도: 민주노동당_11
+2025-06-02 15:44:09 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '주거', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:09 [INFO] embeddings: 🔹 저장 시도: 민주노동당_12
+2025-06-02 15:44:18 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:18 [INFO] embeddings: 🔹 저장 시도: 민주노동당_13
+2025-06-02 15:44:24 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '보건의료', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:24 [INFO] embeddings: 🔹 저장 시도: 민주노동당_14
+2025-06-02 15:44:32 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '복지', 'target_age': '노년', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:32 [INFO] embeddings: 🔹 저장 시도: 민주노동당_15
+2025-06-02 15:44:38 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:38 [INFO] embeddings: 🔹 저장 시도: 민주노동당_16
+2025-06-02 15:44:49 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:49 [INFO] embeddings: 🔹 저장 시도: 민주노동당_17
+2025-06-02 15:44:57 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:44:57 [INFO] embeddings: 🔹 저장 시도: 민주노동당_18
+2025-06-02 15:45:04 [INFO] embeddings: → 저장 메타: {'candidate': '', 'party': '민주노동당', 'policy_type': 'party', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:04 [INFO] embeddings: file_type - 선거공약서
+2025-06-02 15:45:04 [INFO] embeddings: candidate - 이재명
+2025-06-02 15:45:04 [INFO] embeddings: party - 더불어민주당
+2025-06-02 15:45:04 [INFO] embeddings: 🔹 저장 시도: 이재명_2
+2025-06-02 15:45:09 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:09 [INFO] embeddings: 🔹 저장 시도: 이재명_4
+2025-06-02 15:45:15 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '문화', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:15 [INFO] embeddings: 🔹 저장 시도: 이재명_6
+2025-06-02 15:45:21 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:21 [INFO] embeddings: 🔹 저장 시도: 이재명_7
+2025-06-02 15:45:26 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:26 [INFO] embeddings: 🔹 저장 시도: 이재명_8
+2025-06-02 15:45:32 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:32 [INFO] embeddings: 🔹 저장 시도: 이재명_10
+2025-06-02 15:45:40 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:40 [INFO] embeddings: 🔹 저장 시도: 이재명_11
+2025-06-02 15:45:47 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '노동', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:47 [INFO] embeddings: 🔹 저장 시도: 이재명_12
+2025-06-02 15:45:54 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:45:54 [INFO] embeddings: 🔹 저장 시도: 이재명_13
+2025-06-02 15:46:00 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:00 [INFO] embeddings: 🔹 저장 시도: 이재명_14
+2025-06-02 15:46:06 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:06 [INFO] embeddings: 🔹 저장 시도: 이재명_15
+2025-06-02 15:46:11 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:11 [INFO] embeddings: 🔹 저장 시도: 이재명_16
+2025-06-02 15:46:17 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:17 [INFO] embeddings: 🔹 저장 시도: 이재명_17
+2025-06-02 15:46:25 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:25 [INFO] embeddings: 🔹 저장 시도: 이재명_18
+2025-06-02 15:46:29 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:29 [INFO] embeddings: 🔹 저장 시도: 이재명_19
+2025-06-02 15:46:36 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '정치', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:36 [INFO] embeddings: 🔹 저장 시도: 이재명_20
+2025-06-02 15:46:43 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:43 [INFO] embeddings: 🔹 저장 시도: 이재명_21
+2025-06-02 15:46:52 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:52 [INFO] embeddings: 🔹 저장 시도: 이재명_22
+2025-06-02 15:46:58 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:46:58 [INFO] embeddings: 🔹 저장 시도: 이재명_23
+2025-06-02 15:47:05 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '외교', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:05 [INFO] embeddings: 🔹 저장 시도: 이재명_24
+2025-06-02 15:47:12 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '사법', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:12 [INFO] embeddings: 🔹 저장 시도: 이재명_25
+2025-06-02 15:47:19 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '의료', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:19 [INFO] embeddings: 🔹 저장 시도: 이재명_26
+2025-06-02 15:47:27 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '행정', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:27 [INFO] embeddings: 🔹 저장 시도: 이재명_27
+2025-06-02 15:47:35 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:35 [INFO] embeddings: 🔹 저장 시도: 이재명_28
+2025-06-02 15:47:42 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:42 [INFO] embeddings: 🔹 저장 시도: 이재명_29
+2025-06-02 15:47:47 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '복지', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:47 [INFO] embeddings: 🔹 저장 시도: 이재명_30
+2025-06-02 15:47:53 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '경제', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:47:53 [INFO] embeddings: 🔹 저장 시도: 이재명_31
+2025-06-02 15:48:03 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '복지', 'target_age': '청년, 모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:48:03 [INFO] embeddings: 🔹 저장 시도: 이재명_32
+2025-06-02 15:48:09 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '교육', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:48:09 [INFO] embeddings: 🔹 저장 시도: 이재명_33
+2025-06-02 15:48:14 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '정책', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:48:14 [INFO] embeddings: 🔹 저장 시도: 이재명_34
+2025-06-02 15:48:20 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
+2025-06-02 15:48:20 [INFO] embeddings: 🔹 저장 시도: 이재명_35
+2025-06-02 15:48:26 [INFO] embeddings: → 저장 메타: {'candidate': '이재명', 'party': '더불어민주당', 'policy_type': 'candidate', 'category': '환경', 'target_age': '모두', 'target_gender': '모두', 'region': '전국'}
