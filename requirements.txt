@@ -1,0 +1,4 @@
+openai==1.82.1
+chromadb==0.4.22
+pymupdf==1.23.22
+tqdm==4.66.4
