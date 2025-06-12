@@ -9,12 +9,16 @@ from dotenv import load_dotenv
 import os
 
 class NaverNewsAPI:
-    def __init__(self, client_id: str, client_secret: str):
+    def __init__(self):
+        load_dotenv()  # .env 파일 자동 로딩
+        client_id = os.getenv("NAVER_API_CLIENT_ID")
+        client_secret = os.getenv("NAVER_API_CLIENT_SECRET")
         self.client_id = client_id
         self.client_secret = client_secret
         self.base_url = "https://openapi.naver.com/v1/search/news.json"
 
-    def search(self, keyword: str, display: int = 100) -> dict:
+    def search(self, keyword: str) -> dict:
+        display = 100
         enc_text = urllib.parse.quote(keyword)
         url = f"{self.base_url}?query={enc_text}&display={display}"
 
@@ -34,17 +38,3 @@ class NaverNewsAPI:
         except Exception as e:
             print(f"❌ Request failed: {e}")
             return {}
-
-# ✅ 사용 예시
-if __name__ == "__main__":
-    load_dotenv()  # .env 파일 자동 로딩
-
-    client_id = os.getenv("NAVER_API_CLIENT_ID")
-    client_secret = os.getenv("NAVER_API_CLIENT_SECRET")
-
-    api = NaverNewsAPI(client_id, client_secret)
-    result = api.search("이재명 정책")
-
-    # 뉴스 제목 출력 예시
-    for i, item in enumerate(result.get("items", []), 1):
-        print(f"{i}. {item['title']}")
