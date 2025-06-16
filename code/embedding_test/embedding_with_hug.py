@@ -3,13 +3,12 @@ Make VectorDB with huggingface
 """
 
 import os
-# import fitz
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.document_loaders import PyMuPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-def make_vdb() :
+def make_vdb():
     # ✅ code 기준으로 상위 team_09 디렉토리 경로 설정
     BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
@@ -21,28 +20,20 @@ def make_vdb() :
     os.makedirs(PERSIST_PATH, exist_ok=True)
     
     print(f"BASE_DIR - {BASE_DIR}")
-
-    # # ✅ 벡터 DB 저장 경로
-    # VECTOR_DB_DIR = os.path.join(BASE_DIR, "vectorDB")
-    # VECTOR_DB_NAME = "candidate_vdb"
-    # PERSIST_PATH = os.path.join(VECTOR_DB_DIR, VECTOR_DB_NAME)
-    # os.makedirs(PERSIST_PATH, exist_ok=True)
-
-    # ✅ PDF 데이터 경로
-    DATA_DIR = os.path.join(BASE_DIR, "data")
     print(f"DATA_DIR - {DATA_DIR}")
 
     # ✅ 후보자 정보
     candidates = ["이재명", "김문수", "이준석", "권영국", "송진호"]
-    
     file_ls = os.listdir(DATA_DIR)    
 
-    file_paths = {
-        name: [os.path.join(DATA_DIR, [x for x in file_ls if name in x][0])] * 2
-        for name in candidates
-    }
+    file_paths = {}
+    for name in candidates:
+        matched_files = [x for x in file_ls if name in x]
+        if not matched_files:
+            raise FileNotFoundError(f"{name} 후보의 PDF 파일이 없습니다.")
+        file_paths[name] = [os.path.join(DATA_DIR, matched_files[0])]  # ✅ 1개만 로딩
 
-    print(file_paths)
+    print("✅ 파일 매핑:", file_paths)
 
     # ✅ 문서 로딩
     all_documents = []
