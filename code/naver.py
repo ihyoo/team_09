@@ -13,11 +13,9 @@ import ast
 
 class NaverNewsAPI:
     def __init__(self):
-        # load_dotenv()
-        # self.client_id = os.getenv("NAVER_API_CLIENT_ID")
-        # self.client_secret = os.getenv("NAVER_API_CLIENT_SECRET")
-        self.client_id = "EPCR5d1whNbimUA9ICpK"
-        self.client_secret = "oAjgY5t6Pi"
+        load_dotenv()
+        self.client_id = os.getenv("NAVER_API_CLIENT_ID")
+        self.client_secret = os.getenv("NAVER_API_CLIENT_SECRET")
         self.base_url = "https://openapi.naver.com/v1/search/news.json"
 
     def search(self, keyword: str, display: int = 50,sort='date') -> dict:

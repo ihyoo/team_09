@@ -11,8 +11,6 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.document_loaders import PyMuPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-
-
 # ✅ 유틸 함수
 def is_empty_or_irrelevant(answer: str) -> bool:
     patterns = ["관련.*없", "언급되지 않았습니다", "포함되어 있지 않습니다", "등장하지 않습니다", "찾을 수 없습니다", "문서에.*없"]
