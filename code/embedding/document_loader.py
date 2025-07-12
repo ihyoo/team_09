@@ -12,7 +12,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 # ✅ 데이터 및 벡터 DB 경로 설정
 DATA_DIR = os.path.join(BASE_DIR, "raw_data")  # PDF 원본 위치
 VECTOR_DB_DIR = os.path.join(BASE_DIR, "vectorDB")
-VECTOR_DB_NAME = "candidate"
+VECTOR_DB_NAME = "candidate_250712"
 PERSIST_PATH = os.path.join(VECTOR_DB_DIR, VECTOR_DB_NAME)
 os.makedirs(PERSIST_PATH, exist_ok=True)
 
