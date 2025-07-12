@@ -1,5 +1,4 @@
-# team_09
-Bigdata NLP.
+# President-candidate-compass
 
 Git clone 후 실행 순서
 
